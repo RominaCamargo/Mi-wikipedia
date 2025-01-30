@@ -56,6 +56,6 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 ## Estructura de Archivos
 
 - **Dockerfile**: Contiene las instrucciones para construir la imagen de Docker.
-- **cgi-bin/render.pl**: Script Perl que procesa el contenido Markdown y lo convierte en HTML.
+- **cgi-bin**: Script Perl que procesa el contenido Markdown y lo convierte en HTML.
 - **css/styles.css**: Archivo de estilos CSS para la presentación de la página web.
 - **index.html**: Página principal que contiene el editor de Markdown y muestra el HTML resultante.
